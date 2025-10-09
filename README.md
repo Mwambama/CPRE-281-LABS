@@ -1,3 +1,3 @@
-# CPRE-281-LABS
-Labs for computer engineering 281
+# CPRE-281 Final project
+Project for computer engineering 281
 
