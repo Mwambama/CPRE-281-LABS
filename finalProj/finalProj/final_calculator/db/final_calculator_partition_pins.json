@@ -1,0 +1,165 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "HEX3_0",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_1",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_2",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_3",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_4",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_5",
+					"strict" : false
+				},
+				{
+					"name" : "HEX3_6",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_0",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_1",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_2",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_3",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_4",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_5",
+					"strict" : false
+				},
+				{
+					"name" : "HEX2_6",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_0",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_1",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_2",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_3",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_4",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_5",
+					"strict" : false
+				},
+				{
+					"name" : "HEX6_6",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_0",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_1",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_2",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_3",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_4",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_5",
+					"strict" : false
+				},
+				{
+					"name" : "HEX4_6",
+					"strict" : false
+				},
+				{
+					"name" : "SW3",
+					"strict" : false
+				},
+				{
+					"name" : "SW4",
+					"strict" : false
+				},
+				{
+					"name" : "SW2",
+					"strict" : false
+				},
+				{
+					"name" : "SW5",
+					"strict" : false
+				},
+				{
+					"name" : "SW6",
+					"strict" : false
+				},
+				{
+					"name" : "SW0",
+					"strict" : false
+				},
+				{
+					"name" : "SW1",
+					"strict" : false
+				},
+				{
+					"name" : "SW7",
+					"strict" : false
+				},
+				{
+					"name" : "SW0_DB",
+					"strict" : false
+				},
+				{
+					"name" : "SW1_DB",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

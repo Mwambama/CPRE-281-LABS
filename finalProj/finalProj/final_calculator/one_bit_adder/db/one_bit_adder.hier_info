@@ -1,0 +1,7 @@
+|one_bit_adder
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+in1 => inst.IN0
+in2 => inst.IN1
+Cin => inst2.IN1
+
+

@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "op[0]",
+					"strict" : false
+				},
+				{
+					"name" : "op[1]",
+					"strict" : false
+				},
+				{
+					"name" : "output_fsm",
+					"strict" : false
+				},
+				{
+					"name" : "FSM_0",
+					"strict" : false
+				},
+				{
+					"name" : "FSM_1",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
